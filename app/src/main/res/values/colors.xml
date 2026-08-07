@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme (Default) -->
+    <color name="background_dark">#000000</color>
+    <color name="surface_dark">#1C1C1D</color>
+    <color name="accent">#E2BE09</color>
+    <color name="text_primary">#F2EFE3</color>
+    <color name="text_secondary">#59522E</color>
+    <color name="text_hint">#8A8A8E</color>
+    
+    <!-- Light Theme -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="surface_light">#F5F5F5</color>
+    <color name="text_primary_light">#000000</color>
+    
+    <!-- Common -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="divider">#1A59522E</color>
+    
+    <!-- Status Colors -->
+    <color name="online">#4CAF50</color>
+    <color name="offline">#9E9E9E</color>
+    <color name="message_sent">#4FC3F7</color>
+    <color name="message_delivered">#81D4FA</color>
+    <color name="message_read">#E2BE09</color>
+    
+    <!-- Chat Background -->
+    <color name="chat_background_dark">#0B0B0B</color>
+    <color name="chat_bubble_outgoing">#E2BE09</color>
+    <color name="chat_bubble_incoming">#1C1C1D</color>
+    
+    <!-- Call Colors -->
+    <color name="call_accept">#4CAF50</color>
+    <color name="call_decline">#F44336</color>
+    <color name="call_mute">#FF9800</color>
+</resources>

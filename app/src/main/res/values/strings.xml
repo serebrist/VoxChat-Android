@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VoxChat</string>
+    
+    <!-- Auth -->
+    <string name="login_title">Вход</string>
+    <string name="register_title">Регистрация</string>
+    <string name="login_or_jid">Логин или JID</string>
+    <string name="password">Пароль</string>
+    <string name="btn_login">Войти</string>
+    <string name="btn_register">Зарегистрироваться</string>
+    <string name="no_account">Нет аккаунта?</string>
+    <string name="have_account">Уже есть аккаунт?</string>
+    <string name="display_name">Отображаемое имя</string>
+    <string name="confirm_password">Подтверждение пароля</string>
+    <string name="error_passwords_mismatch">Пароли не совпадают</string>
+    <string name="error_weak_password">Пароль должен быть не менее 6 символов</string>
+    <string name="error_empty_field">Заполните все поля</string>
+    
+    <!-- Chats -->
+    <string name="chats">Чаты</string>
+    <string name="contacts">Контакты</string>
+    <string name="calls">Звонки</string>
+    <string name="settings">Настройки</string>
+    <string name="search">Поиск</string>
+    <string name="new_chat">Новый чат</string>
+    <string name="archived">Архив</string>
+    <string name="saved_messages">Избранное</string>
+    <string name="pinned">Закреплено</string>
+    <string name="typing">печатает…</string>
+    <string name="online">онлайн</string>
+    <string name="last_seen">Был(а) в сети</string>
+    <string name="today">сегодня</string>
+    <string name="yesterday">вчера</string>
+    
+    <!-- Messages -->
+    <string name="message_hint">Сообщение</string>
+    <string name="copy">Копировать</string>
+    <string name="reply">Ответить</string>
+    <string name="forward">Переслать</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_for_me">Удалить у себя</string>
+    <string name="delete_for_all">Удалить у всех</string>
+    <string name="pin_message">Закрепить</string>
+    <string name="unpin_message">Открепить</string>
+    <string name="select">Выбрать</string>
+    
+    <!-- Media -->
+    <string name="gallery">Галерея</string>
+    <string name="camera">Камера</string>
+    <string name="file">Файл</string>
+    <string name="location">Геолокация</string>
+    <string name="contact">Контакт</string>
+    <string name="voice_message">Голосовое сообщение</string>
+    <string name="photo">Фото</string>
+    <string name="video">Видео</string>
+    <string name="audio">Аудио</string>
+    <string name="document">Документ</string>
+    
+    <!-- Groups -->
+    <string name="create_group">Создать группу</string>
+    <string name="create_channel">Создать канал</string>
+    <string name="group_name">Название группы</string>
+    <string name="channel_name">Название канала</string>
+    <string name="group_description">Описание</string>
+    <string name="add_participants">Добавить участников</string>
+    <string name="participants">Участники</string>
+    <string name="admins">Администраторы</string>
+    <string name="owner">Владелец</string>
+    <string name="make_admin">Назначить админом</string>
+    <string name="remove_admin">Снять с админа</string>
+    <string name="invite_link">Пригласительная ссылка</string>
+    <string name="copy_link">Копировать ссылку</string>
+    
+    <!-- Calls -->
+    <string name="incoming_call">Входящий вызов</string>
+    <string name="outgoing_call">Исходящий вызов</string>
+    <string name="call_ended">Вызов завершен</string>
+    <string name="missed_call">Пропущенный вызов</string>
+    <string name="accept">Принять</string>
+    <string name="decline">Отклонить</string>
+    <string name="mute">Выключить звук</string>
+    <string name="unmute">Включить звук</string>
+    <string name="speaker">Динамик</string>
+    <string name="camera_off">Камера выкл</string>
+    <string name="camera_on">Камера вкл</string>
+    <string name="end_call">Завершить</string>
+    <string name="screen_share">Демонстрация экрана</string>
+    
+    <!-- Settings -->
+    <string name="profile">Профиль</string>
+    <string name="privacy">Конфиденциальность</string>
+    <string name="security">Безопасность</string>
+    <string name="notifications">Уведомления</string>
+    <string name="data_storage">Данные и память</string>
+    <string name="language">Язык</string>
+    <string name="help">Помощь</string>
+    <string name="about">О приложении</string>
+    <string name="logout">Выйти</string>
+    <string name="change_avatar">Сменить аватар</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="bio">О себе</string>
+    <string name="username">Имя пользователя</string>
+    
+    <!-- Folders -->
+    <string name="folders">Папки</string>
+    <string name="all_chats">Все чаты</string>
+    <string name="personal">Личные</string>
+    <string name="groups">Группы</string>
+    <string name="channels">Каналы</string>
+    <string name="create_folder">Создать папку</string>
+    
+    <!-- Premium -->
+    <string name="premium">VoxChat Premium</string>
+    <string name="get_premium">Получить Premium</string>
+    
+    <!-- Errors -->
+    <string name="error_network">Ошибка сети</string>
+    <string name="error_auth">Ошибка авторизации</string>
+    <string name="error_generic">Произошла ошибка</string>
+    <string name="retry">Повторить</string>
+</resources>
