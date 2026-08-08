@@ -89,8 +89,8 @@ dependencies {
     implementation("org.igniterealtime.smack:smack-im:4.4.8")
     implementation("org.igniterealtime.smack:smack-extensions:4.4.8")
     
-    // WebRTC (исправлено: правильный репозиторий JitPack)
-    implementation("com.github.pelya:google-webrtc:1.0.32006")
+    // WebRTC (Используем версию от Jitsi, она стабильна в JitPack)
+    implementation("com.github.jitsi:google-webrtc:1.0.36006")
     
     // Image Loading - Glide
     implementation("com.github.bumptech.glide:glide:4.16.0")
