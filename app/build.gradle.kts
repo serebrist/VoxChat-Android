@@ -82,16 +82,15 @@ dependencies {
     implementation("com.squareup.okhttp3:okhttp:4.12.0")
     implementation("com.squareup.okhttp3:logging-interceptor:4.12.0")
     
-    // XMPP - Smack
-    implementation("org.igniterealtime.smack:smack-tcp:4.4.6")
-    implementation("org.igniterealtime.smack:smack-websocket:4.4.6")
-    implementation("org.igniterealtime.smack:smack-bosh:4.4.6")
-    implementation("org.igniterealtime.smack:smack-im:4.4.6")
-    implementation("org.igniterealtime.smack:smack-extensions:4.4.6")
-    implementation("org.igniterealtime.smack:smack-android-extensions:4.4.6")
+    // XMPP - Smack (исправлено: удален smack-websocket, используется smack-android)
+    implementation("org.igniterealtime.smack:smack-android:4.4.8")
+    implementation("org.igniterealtime.smack:smack-tcp:4.4.8")
+    implementation("org.igniterealtime.smack:smack-bosh:4.4.8")
+    implementation("org.igniterealtime.smack:smack-im:4.4.8")
+    implementation("org.igniterealtime.smack:smack-extensions:4.4.8")
     
-    // WebRTC
-    implementation("org.webrtc:google-webrtc:1.0.32006")
+    // WebRTC (исправлено: правильный репозиторий JitPack)
+    implementation("com.github.pelya:google-webrtc:1.0.32006")
     
     // Image Loading - Glide
     implementation("com.github.bumptech.glide:glide:4.16.0")
